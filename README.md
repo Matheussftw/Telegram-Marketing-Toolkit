@@ -27,8 +27,8 @@
 ![](copy.gif)
 
 ### 📢 Mass Communication
-- **Mass DM Sender** - Bulk direct messaging
 ![](mass.gif)
+- **Mass DM Sender** - Bulk direct messaging
 - **Message Forwarder** - Cross-group message sharing
 - **Forward Old Messages** - Archive and forward historical messages
 - **Forward Messages Realtime** - Instant message relay between chats
