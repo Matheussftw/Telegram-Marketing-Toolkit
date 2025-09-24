@@ -26,7 +26,7 @@
 - **Clone/Copy Targets** - Clone/Copy any target in real-time.
 ![](copy.gif)
 
-### 📢 Mass Communication (11 functions)
+### 📢 Mass Communication
 - **Mass DM Sender** - Bulk direct messaging
 ![](mass.gif)
 - **Message Forwarder** - Cross-group message sharing
