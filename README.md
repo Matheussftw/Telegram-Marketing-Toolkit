@@ -70,3 +70,6 @@
 
 # GET HERE: https://shorturl.at/rDN9K
 ## For any questions: https://shorturl.at/pfRnW
+
+<h2 align="center">Visitors Counts👀</h2>
+<a href="https://github.com/indicaskill/Telegram-Marketing-Toolkit"><img alt="Cute Count" src="https://count.getloli.com/get/@top1gt?theme=rule34" /></a>
