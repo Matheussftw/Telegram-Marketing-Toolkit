@@ -49,3 +49,21 @@
 - **View Booster** - Enhance content visibility
 - **Group/Channel Finder** - Identify links for groups/channels with your keywords.
 - **Hashtag Optimizer** - Automatic hashtag research
+
+### 🔐 Account Management
+- **API ID Creator** - Generate Telegram API credentials
+- **Session Manager** - Handle multiple accounts
+![](log_in.gif)
+- **Proxy Supported** - Full proxy integration (HTTP/SOCKS)
+- **Auto-Joiner** - Join any target automatically with every acc.
+![](join.gif)
+- **Auto-Leaver** - Leave any target automatically with every acc
+- **Ban-Checker** - Check if acc's are banned and clean your list.
+- **Spam-Checker** - Check if you acc's are ready to go.
+- **Frozen-Checker** - Check if your acc's are ready to go. (New from TG)
+- **Unspam Acc's** - Remove any limits.
+- **Unfreeze Acc's** - Remove the Frozen status of your acc's.
+### AND MUCH MORE!
+
+# GET HERE: https://shorturl.at/rDN9K
+## For any questions: https://shorturl.at/pfRnW
