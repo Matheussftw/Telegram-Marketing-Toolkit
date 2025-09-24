@@ -11,11 +11,11 @@
 
 ### TelegramTool #TelegramMarketing #TelegramBot #Automation
 
-## ✨ Features
+## ✨ Almost 50 Features
 
 <img src='UI1.png' width='450'>
 
-### Member Management
+### 👥 Member Management
 - **Telegram Member Adder** - Add users to groups/channels
 ![](add.gif)
 - **Active Member Scanner** - Identify most active participants
@@ -25,3 +25,19 @@
 ![](scrap.gif)
 - **Clone/Copy Targets** - Clone/Copy any target in real-time.
 ![](copy.gif)
+
+### 📢 Mass Communication (11 functions)
+- **Mass DM Sender** - Bulk direct messaging
+![](mass.gif)
+- **Message Forwarder** - Cross-group message sharing
+- **Forward Old Messages** - Archive and forward historical messages
+- **Forward Messages Realtime** - Instant message relay between chats
+- **Realtime Message Scraper** - Capture all incoming new messages
+- **Complete Message Scraper** - Scrape all old messages from groups/channels
+- **Auto Reply** - Response system
+- **Scheduled Messaging** - Time-based message delivery
+- **Automatic Polls** - Generate and manage polls automatically
+- **Message Templates** - Create and reuse message templates
+- **Multi-Language Support** - Send messages in different languages
+- **Media Attachment** - Support for files, images, and videos
+- **HTML Formatting** - Rich text message capabilities
