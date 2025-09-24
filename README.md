@@ -41,3 +41,11 @@
 - **Multi-Language Support** - Send messages in different languages
 - **Media Attachment** - Support for files, images, and videos
 - **HTML Formatting** - Rich text message capabilities
+
+### 🚀 Engagement Boosting
+- **Increase Views** - Boost post visibility and view counts
+![](view_post.gif)
+- **Reactions Bot** - Automatic emoji reactions to posts
+- **View Booster** - Enhance content visibility
+- **Group/Channel Finder** - Identify links for groups/channels with your keywords.
+- **Hashtag Optimizer** - Automatic hashtag research
