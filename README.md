@@ -26,6 +26,8 @@
 - **Clone/Copy Targets** - Clone/Copy any target in real-time.
 ![](copy.gif)
 
+### ❌ Delete Competition
+
 ### 📢 Mass Communication
 ![](mass.gif)
 - **Mass DM Sender** - Bulk direct messaging
