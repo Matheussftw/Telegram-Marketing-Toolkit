@@ -27,6 +27,7 @@
 ![](copy.gif)
 
 ### ❌ Delete Competition
+- **Automatic Re ports** - Get rid of any targets (users, groups, channels) automatically with specific reasons.
 
 ### 📢 Mass Communication
 ![](mass.gif)
